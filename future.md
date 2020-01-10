@@ -17,7 +17,7 @@ achieve this, with various tradeoffs in complexity and security.
 
 * Recovery possible with only M-of-N paper packets
 
-* Low-security withdrawal process documented for heirs
+* High-security withdrawal process documented for heirs
 
 * Recovery likely by heirs with only M-of-N paper packets and no
   knowledge of the wallet system, assuming Bitcoin expert consultation
